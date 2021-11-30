@@ -14,7 +14,7 @@ KALI AJA GITU ADA YANG BAEK HATI DAN MAU TRAKTIR GUA KOPI & ROKOK 😆
 <h6>GUA MAH MASIH NOOB, CUMA BISA COPY PASTE DOANG 😊
 
 
-### Join with me ⬇️
+### Ngopi Bareng Sini.. ⬇️
 ___________________________________
 <p align="center">
   <a href="https://github.com/zigaz23"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
