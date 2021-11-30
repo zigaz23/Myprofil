@@ -7,6 +7,9 @@ MASI BELAJAR BELAJAR BIAR JADI PROGRAMER. 😁
 
 
 KALI AJA GITU ADA YANG BAEK HATI DAN MAU TRAKTIR GUA KOPI & ROKOK 😆
+
+<h3>Kalo lu mau beliin gua kopi, disini aja yaa traktirnya ⬇️</h3>
+
 <p><a href="https://sociabuzz.com/aricons/tribe">☕ { DONATE } 🚬</a></p>
 <h6>GUA MAH MASIH NOOB, CUMA BISA COPY PASTE DOANG 😊
 
