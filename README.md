@@ -1,17 +1,19 @@
-<h5>⚡ WELCOME TO MY GITHUB ✨</h5>
- <h3>• SERAH LU DAH MAU NGAPAIN AJA DI SINI BEBAS.</h3>
+![gadonasi nih taicard name](https://cardivo.vercel.app/api?name=𝐀𝐑𝐈𝐂𝐎𝐍𝐒%20🇮🇩&description=𝗦𝗘𝗟𝗔𝗠𝗔𝗧%20𝗗𝗔𝗧𝗔𝗡𝗚%20𝗔𝗡𝗬𝗜𝗡𝗚%20𝗗𝗜%20𝗚𝗜𝗧𝗛𝗨𝗕%20𝗚𝗨𝗔%20%F0%9F%91%8B&image=https://telegra.ph/file/3b3e207c03ba7d24ec606.jpg?v=4&backgroundColor=%23ecf0f1&github=zigaz23&pattern=leaf&colorPattern=%23eaeaea)
 
 
-• GUA MAH MASIH NOOB BRO BUKAN PRO
-MASI BELAJAR BELAJAR BIAR JADI PROGRAMER BIAR KEK ORANG ORANG GITU 😁
+<h3>• SERAH LU DAH MAU NGAPAIN AJA DI SINI BEBAS !</h3>
 
 
-KALI AJA GITU ADA YANG BAEK HATI DAN MAU TRAKTIR GUA KOPI & ROKOK 😆
+• 𝐆𝐔𝐀 𝐌𝐀𝐇 𝐌𝐀𝐒𝐈𝐇 𝐍𝐔𝐁 𝐁𝐑𝐎 𝐁𝐔𝐊𝐀𝐍 𝐏𝐑𝐎!!!
+𝐌𝐀𝐒𝐈 𝐁𝐄𝐋𝐀𝐉𝐀𝐑, 𝐁𝐈𝐀𝐑 𝐉𝐀𝐃𝐈 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐄𝐑 𝐁𝐈𝐀𝐑 𝐊𝐄𝐊 𝐎𝐑𝐀𝐍𝐆 𝐎𝐑𝐀𝐍𝐆 𝐆𝐈𝐓𝐔 😁
+
+
+• 𝙆𝘼𝙇𝙄 𝘼𝙅𝘼 𝙂𝙄𝙏𝙐 𝘼𝘿𝘼 𝙔𝘼𝙉𝙂 𝘽𝘼𝙀𝙆 𝙃𝘼𝙏𝙄 𝘿𝘼𝙉 𝙈𝘼𝙐 𝙏𝙍𝘼𝙆𝙏𝙄𝙍 𝙂𝙐𝘼 𝙆𝙊𝙋𝙄 & 𝙍𝙊𝙆𝙊𝙆 😅
 
 <h3>Kalo lu mau beliin gua kopi dan rokok, disini aja yaa traktirnya ⬇️</h3>
 
 <a href="https://sociabuzz.com/aricons/tribe"><img src="https://telegra.ph/file/d7ed0f4bdaf82b135b64a.png"/>
-<h6>GUA MAH MASIH NOOB, CUMA BISA COPY PASTE DOANG 😊
+<h6>☕ ☕ ☕ ☕
 
 
 ### Ngopi Bareng Sini.. ⬇️
