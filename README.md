@@ -1,4 +1,4 @@
-![gadonasi nih taicard name](https://cardivo.vercel.app/api?name=𝐀𝐑𝐈𝐂𝐎𝐍𝐒%20🇮🇩&description=𝗦𝗘𝗟𝗔𝗠𝗔𝗧%20𝗗𝗔𝗧𝗔𝗡𝗚%20𝗔𝗡𝗬𝗜𝗡𝗚%20𝗗𝗜%20𝗚𝗜𝗧𝗛𝗨𝗕%20𝗚𝗨𝗔%20%F0%9F%91%8B&image=https://telegra.ph/file/3b3e207c03ba7d24ec606.jpg?v=4&backgroundColor=%23ecf0f1&github=zigaz23&pattern=leaf&colorPattern=%23eaeaea)
+![card name aricons](https://cardivo.vercel.app/api?name=𝐀𝐑𝐈𝐂𝐎𝐍𝐒%20🇮🇩&description=𝗦𝗘𝗟𝗔𝗠𝗔𝗧%20𝗗𝗔𝗧𝗔𝗡𝗚%20𝗔𝗡𝗬𝗜𝗡𝗚%20𝗗𝗜%20𝗚𝗜𝗧𝗛𝗨𝗕%20𝗚𝗨𝗔%20%F0%9F%91%8B&image=https://telegra.ph/file/3b3e207c03ba7d24ec606.jpg?v=4&backgroundColor=%23ecf0f1&github=zigaz23&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <h3>• SERAH LU DAH MAU NGAPAIN AJA DI SINI BEBAS !</h3>
