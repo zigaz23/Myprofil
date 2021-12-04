@@ -31,5 +31,5 @@ ___________________________________
 
 <b><i><strong><a href="https://sociabuzz.com/aricons/tribe">**Donasi Seikhlas Nya**</a></storng></i></b>
 
-<b><i><strong><a href="https://sociabuzz.com/aricons/tribe">**Donasi Kopi & Rokok**</a></storng></i></b>
+<b><i><strong><a href="https://trakteer.id/aricons/tip">**Donasi Kopi & Rokok**</a></storng></i></b>
 _________________
