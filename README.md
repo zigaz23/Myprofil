@@ -20,11 +20,11 @@
 ___________________________________
 <p align="center">
   <a href="https://github.com/zigaz23"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <a href="https://instagram.com/ariasinathrya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/+6289501125346"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://t.me/SilenceSpe4ks"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://t.me/infobotmusik"><img src="https://img.shields.io/badge/Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
   <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-aricons21-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQGj68QT7OTmrpZL2NFVXoQ" /><br>
+  <a href="https://instagram.com/ariasinathrya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/+6289501125346"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a name=zigaz23&label=VIEWS&style=flat-square&color=orange" />
 
 </p>
