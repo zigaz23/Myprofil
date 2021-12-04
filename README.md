@@ -25,7 +25,8 @@ ___________________________________
   <a href="https://t.me/SilenceSpe4ks"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-aricons21-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQGj68QT7OTmrpZL2NFVXoQ" /><br>
   <a name=zigaz23&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://t.me/infobotmusik"><img src="https://img.shields.io/badge/Channel-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=red" />
+  <a href="https://t.me/infobotmusik"><img src="https://img.shields.io/badge/Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+
 </p>
 
 ### INFO📌
