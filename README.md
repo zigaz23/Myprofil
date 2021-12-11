@@ -13,7 +13,7 @@
 <h3>Kalo lu mau beliin gua kopi dan rokok, disini aja yaa traktirnya ⬇️</h3>
 
 <a href="https://sociabuzz.com/aricons/tribe"><img src="https://telegra.ph/file/d7ed0f4bdaf82b135b64a.png"/>
-<h6>☕ ☕ ☕ ☕
+
 
 
 ### 𝐒𝐢𝐧𝐢𝐥𝐚𝐜𝐡 𝐊𝐢𝐭𝐚 𝐍𝐠𝐨𝐩𝐢 𝐁𝐚𝐫𝐞𝐧𝐠 ⬇️
