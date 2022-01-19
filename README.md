@@ -35,4 +35,4 @@ ___________________________________
 _________________
 
 
-[Netlify Status](https://app.netlify.com/sites/flamboyant-euclid-00762b/deploys/61e81e5675fc0110dd5aedca)
+[![Netlify Status](https://app.netlify.com/sites/flamboyant-euclid-00762b/deploys/61e81e5675fc0110dd5aedca)](https://app.netlify.com/sites/stupefied-carson-a3dae2/deploys)
