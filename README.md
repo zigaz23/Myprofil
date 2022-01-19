@@ -29,7 +29,7 @@ ___________________________________
   <a href="https://komarev.com/ghpvc/?username=zigaz23&color=blue&style=flat-square&label=TOTAL+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zigaz23&color=blue&style=flat-square&label=TOTAL+View"></a>
 </p>
 
-<b><i><strong><a href="https://sociabuzz.com/aricons/tribe">**ᴛʀᴀᴋᴛɪʀ ᴋᴏᴘɪ**</a></storng></i></b>
+<b><i><strong><a href="https://sociabuzz.com/aricons/tribe">**ᴛʀᴀᴋᴛɪʀ ᴋᴏᴘɪ & ʀᴏᴋᴏᴋ**</a></storng></i></b>
 
-<b><i><strong><a href="https://trakteer.id/aricons/tip">**ᴛʀᴀᴋᴛɪʀ ᴋᴏᴘɪ & ʀᴏᴋᴏᴋ**</a></storng></i></b>
+<b><i><strong><a href="https://trakteer.id/aricons/tip">**ᴛʀᴀᴋᴛɪʀ ᴋᴏᴘɪ ᴀᴊᴀ**</a></storng></i></b>
 _________________
