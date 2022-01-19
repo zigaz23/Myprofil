@@ -1,6 +1,6 @@
 ![card name aricons](https://cardivo.vercel.app/api?name=𝐀𝐑𝐈𝐂𝐎𝐍𝐒%20🇮🇩&description=𝗦𝗘𝗟𝗔𝗠𝗔𝗧%20𝗗𝗔𝗧𝗔𝗡𝗚%20𝗔𝗡𝗬𝗜𝗡𝗚%20𝗗𝗜%20𝗚𝗜𝗧𝗛𝗨𝗕%20𝗚𝗨𝗔%20%F0%9F%91%8B&image=https://telegra.ph/file/3b3e207c03ba7d24ec606.jpg?v=4&backgroundColor=%23ecf0f1&github=zigaz23&pattern=leaf&colorPattern=%23eaeaea)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23A32626&icon=java.svg&icon_color=%23FFFFFF&title=Penikmat+Coffee&edge_flat=false"/></a>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8fd56212-0a7d-4886-afda-f5ff768721b3/deploy-status)](https://app.netlify.com/sites/stupefied-carson-a3dae2/deploys)
+
 <h3>• SERAH LU DAH MAU NGAPAIN AJA DI SINI, BEBAS !</h3>
 
 
