@@ -33,3 +33,6 @@ ___________________________________
 
 <b><i><strong><a href="https://trakteer.id/aricons/tip">**ᴛʀᴀᴋᴛɪʀ ᴋᴏᴘɪ ᴀᴊᴀ**</a></storng></i></b>
 _________________
+
+
+[Netlify Status](https://app.netlify.com/sites/flamboyant-euclid-00762b/deploys/61e81e5675fc0110dd5aedca)
